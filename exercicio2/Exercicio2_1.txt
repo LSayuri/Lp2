@@ -1,1 +1,7 @@
-...
+Tipo Abstrato de Dados: Se trata de uma especificação de um conjunto de dados e operações que podem ser executadas sobre esses dados. Ou seja, agrupa a estrutura de dados juntamente com as operações que podem ser feitas sobre esses dados. Dessa forma, o usuário pode abstrair da implementação específica.
+
+Classe: Classe pode ser definida como um conjunto de objetos com caracteristicas em comum.
+
+Objeto: É um elemento pertencente a classe. Ou seja, uma classe sendo instanciada.
+
+Mensagens:

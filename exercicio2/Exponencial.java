@@ -3,7 +3,7 @@ public class Exercicio1_5 {
     System.out.println("#    Q    C");
     int n = 0;
     for (int n = 0; n<=10, n++){
-      System.out.println(n + "   " + n ^ 2 + "   " + n3);  
+      System.out.println(n + "   " + n ^ 2 + "   " + n ^ 3);  
     }
   }
 }

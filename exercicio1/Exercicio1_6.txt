@@ -1,2 +1,12 @@
 int: 68, 2700, 0, 22
 float: 68.0, 2700.0, 0.75,22
+double: 68.0, 2700.0, 0.75,22
+
+  Só notamos diferença entre o int e os demais, isso se 
+deve pelo fato do int só trabalhar com variaveis do tipo 
+inteiro, e float e double trabalharem com numeros decimais.
+  A princiapal diferença entre float e double é a precisão 
+e o uso,enquanto o uso do float é usado para contas que exe-
+gem menos precisão o double é usado quando precisamos de nu-
+meros mais exatos, como no caso de quem trabalha na engenha-
+ria por exemplo.
